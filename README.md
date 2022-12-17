@@ -1,4 +1,4 @@
-Pokemon-Battle
+#Pokemon-Battle
 
 Game rolles:
 In this game, you (the player) are fighting an opponent Pokemon. Both Pokemon begin with 100 health points. The health points must be represented somehow on the screen.
@@ -11,4 +11,5 @@ In this game, you (the player) are fighting an opponent Pokemon. Both Pokemon be
 - If the opponent loses all their health the game ends and “You Win” is displayed
 - After the round is finished, the player has two options - receive a new Pokémon
 or continue with the same one. If the player chooses the new Pokémon option, no results are saved. If the player chooses to continue with the same Pokémon, a simple statistic of lost/won battles is shown.
+
 
