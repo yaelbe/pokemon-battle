@@ -1,0 +1,40 @@
+.battle-area {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+}
+
+.players {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.status {
+  font-weight: bold;
+  font-size: 32px;
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  margin-top: 80px;
+}
+
+.status.win {
+  color: #28a745;
+}
+
+.status.lose {
+  color: #dc3545;
+}
+
+.status.tie {
+  color: #ffc107;
+}
+
+.vertical-line {
+  background-color: #cfcfcf;
+  width: 2px;
+  height: 292px;
+}

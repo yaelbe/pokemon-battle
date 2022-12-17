@@ -1,0 +1,32 @@
+.game-wrapper {
+  padding: 32px;
+  margin: 0;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.btn {
+  background-color: #836fa9;
+  border: none;
+  outline: none;
+  padding: 1rem 0;
+  margin: 12px 0;
+  width: 15rem;
+  letter-spacing: 0.1rem;
+  border-radius: 0.5rem;
+  color: #fff;
+  text-transform: uppercase;
+  cursor: pointer;
+  justify-content: space-around;
+}
+
+.btn.again {
+  background-color: #007bff;
+}
+
+.btn.reset {
+  background-color: transparent;
+  color: #836fa9;
+  border: 2px solid #836fa9;
+}

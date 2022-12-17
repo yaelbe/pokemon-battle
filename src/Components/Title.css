@@ -1,0 +1,9 @@
+.title-wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.title-wrapper > h1 {
+  font-size: 24px;
+}
