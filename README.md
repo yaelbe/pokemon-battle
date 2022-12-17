@@ -1,4 +1,4 @@
-#Pokemon-Battle
+# Pokemon-Battle
 
 Game rolles:
 In this game, you (the player) are fighting an opponent Pokemon. Both Pokemon begin with 100 health points. The health points must be represented somehow on the screen.
