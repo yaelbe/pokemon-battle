@@ -7,7 +7,6 @@
 }
 
 .btn {
-  background-color: #836fa9;
   border: none;
   outline: none;
   padding: 1rem 0;
@@ -19,6 +18,14 @@
   text-transform: uppercase;
   cursor: pointer;
   justify-content: space-around;
+}
+.btn.attack {
+  background-color: #836fa9;
+}
+
+.btn.attack:hover {
+  background-color:#ef4608;
+  color: #fff;
 }
 
 .btn.again {

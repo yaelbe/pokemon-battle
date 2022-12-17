@@ -14,7 +14,7 @@ const Game = () => {
       <Title />
       {initialized && <BattleArea />}
       {play ? (
-        <button type="button" onClick={attack} className="btn">
+        <button type="button" onClick={attack} className="btn attack">
           Attack!
         </button>
       ) : (
