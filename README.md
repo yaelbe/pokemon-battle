@@ -12,4 +12,11 @@ In this game, you (the player) are fighting an opponent Pokemon. Both Pokemon be
 - After the round is finished, the player has two options - receive a new Pokémon
 or continue with the same one. If the player chooses the new Pokémon option, no results are saved. If the player chooses to continue with the same Pokémon, a simple statistic of lost/won battles is shown.
 
+## Runing:
+npm install
 
+npm start
+
+## Preview:
+
+![image description](https://raw.githubusercontent.com/yaelbe/pokemon-battle/main/screens/screen_1.png)
